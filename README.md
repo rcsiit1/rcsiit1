@@ -7,3 +7,8 @@
 - 💬 &nbsp;&nbsp; Ask me about Nodejs (Express, Sailsjs), Python(Django, Flask, Data Science), APIs, All kinds of Databases, Complex architectures & Implementations, Infrastrcuture Security and Compliances.
 - 😄 &nbsp;&nbsp; Pronouns: he | his
 - ⚡ &nbsp;&nbsp; A Fact about me: I love complex problems!
+
+<br><br/>
+[![Rajan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rcsiit1&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
+<br><br/>
+[![Rajan's GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rcsiit1&langs_count=5&theme=tokyonight)]()
