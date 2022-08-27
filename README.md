@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">, I'm  Rajan Sharma </h1> <p align="center"> <a href="https://twitter.com/rcsiit" target="blank"><img src="https://img.shields.io/twitter/follow/rcsiit?logo=twitter&style=for-the-badge" alt="rcsiit" /></a> </p>
-<h3 align="center">I am a **super dev**, a **DevOps**, a **manager**, and a **software architect**. I am also an **AWS Certified DevOps Professional**.</h3> <br>
+<h3 align="center">I am a super dev, a DevOps, a manager, and a software architect. I am also an AWS Certified DevOps Professional. I have written 100s of REST APIs and AWS lambda functions. I admire the power of Microservices, Containerization, and Serverless infrastructure.</h3> <br>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rcsiit1&row=2&column=3&theme=tokyonight" alt="rcsiit1" /></a> </p> <br>
 
