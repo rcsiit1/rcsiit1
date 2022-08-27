@@ -9,7 +9,7 @@
 - 😄 &nbsp;&nbsp; Pronouns: he | his
 - ⚡ &nbsp;&nbsp; A Fact about me: Curiousity is my fuel!
 
-### Me on Internet:
+### Follow me around the web:
 
 [<img align="left" alt="rcsiit1 | Stackoverflow" width="40px" src="https://img.icons8.com/color/344/stackoverflow.png" />][stackoverflow]
 [<img align="left" alt="rcsiit1 | Twitter" width="40px" src="https://img.icons8.com/color/344/twitter--v2.png" />][twitter]
