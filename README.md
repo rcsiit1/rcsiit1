@@ -2,7 +2,6 @@
 <h3 align="center">I am a super dev, a DevOps, a manager, and a software architect. I have written 100s of efficient REST APIs and AWS lambda functions. I admire the power of Microservices, Containerization, and Serverless infrastructure.</h3> <br>
 
 
-- 👨‍💼 &nbsp;&nbsp; I’m currently working as the Engineering Lead at Cartloop.
 - ☁️ &nbsp;&nbsp; I'm a certified [AWS DevOps Engineer](https://www.credly.com/badges/49abc3cf-4f01-41b0-a71f-b3f3e7eba10d/public_url).
 - 🌱 &nbsp;&nbsp; I’m currently learning [Helmcharts for K8s](https://helm.sh/docs/topics/charts/).
 - 💬 &nbsp;&nbsp; Ask me about Nodejs (Express, Sailsjs), Python (Django, Flask), All types of relational and non-relational databases, complex architectures, infrastructure security and compliances.
